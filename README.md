@@ -1,6 +1,6 @@
 # Prusa Mini Mosquito Sailfin Mod
 Direct Drive Extruder Mounting Option for Prusa Mini
-![Assembly](https://github.com/CorvidBuilds/Prusa-Mini-Voron-M4-Mount/blob/main/images/Aseembly.png)
+![Assembly](https://github.com/CorvidBuilds/Prusa-Mini-Mosquito-Sailfin-Mod/blob/main/images/Aseembly.png)
 I've been using 4nthonylin's [Mosquito Mount](https://www.prusaprinters.org/prints/36643-prusa-mini-mosquito-mount) and [Fan Shroud](https://www.prusaprinters.org/prints/37368-prusa-mini-mosquito-fan-shroud) mods for a long time and I've wanted to experiment with direct drive extruders for almost as long. I considered putting [Annex Engineering's Sherpa Mini](https://www.prusaprinters.org/prints/32331-prusa-mini-z-axis-bottom-redesign) using [athlon789789's mount](https://www.prusaprinters.org/prints/66519-prusa-mini-sherpa-extruder-direct-drive-conversion) but [CroXY's Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) looked funnier. After some tinkering, I have created these two mounts.
 
 ## THESE ARE CURRENTLY UNTESTED
