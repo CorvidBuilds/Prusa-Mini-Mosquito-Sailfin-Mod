@@ -16,6 +16,7 @@ The Sherpa Mini mount was modified by
 - Aligning output of extruder with hot end.
 - Widening the top plate for said alignment.
 - Shortening the overall height by ~3mm.
+- Adding a cutout to clear the Z Carriage.
 
 This mount should fit both the Sherpa Mini and the Sailfin (using the Mid_Sherpa_Mount.stl).
 
