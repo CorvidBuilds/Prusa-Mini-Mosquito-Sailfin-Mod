@@ -21,5 +21,5 @@ The Sherpa Mini mount was modified by
 This mount should fit both the Sherpa Mini and the Sailfin (using the Mid_Sherpa_Mount.stl).
 
 # Instructions
-
+- PTFE Length: 40.5mm 
 # Klipper Config
